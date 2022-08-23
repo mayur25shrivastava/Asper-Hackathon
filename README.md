@@ -1,14 +1,16 @@
 # **Getting Started with Create React App**
 
-Firstly, I make this app by command npx create-react-app <app-name>
+I make this app by React js,Bootstrap run npx create-react-app <app-name> command to make react app
 
 ## You Need To Install node modules before Running File
 
-Do By npm install
+Do By:
+      
+      npm install
 
-      or
+      
    
-comment out/Remove node_modules from Git Ignore   
+or comment out/Remove node_modules from Git Ignore   
 
 ## npm start --- to Start Project
 
